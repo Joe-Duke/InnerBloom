@@ -1,4 +1,9 @@
-
-git remote add origin https://github.com/yourusername/InnerBloom.git
-git branch -M main
-git push -u origin main
+InnerBloom/
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart              # Your Flutter code
+├── LICENSE.txt
+├── README.md
+├── pubspec.yaml
+└── .gitignore
