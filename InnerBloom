@@ -1,0 +1,9 @@
+InnerBloom/
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart
+├── LICENSE.txt
+├── README.md
+├── pubspec.yaml
+└── ...
