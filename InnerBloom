@@ -1,9 +1,4 @@
-InnerBloom/
-├── android/
-├── ios/
-├── lib/
-│   └── main.dart
-├── LICENSE.txt
-├── README.md
-├── pubspec.yaml
-└── ...
+
+git remote add origin https://github.com/yourusername/InnerBloom.git
+git branch -M main
+git push -u origin main
